@@ -5,5 +5,5 @@ It is written in node js.
 ##npm init
 ##npm install
 ##Start the application
-npm start
+##npm start
 
